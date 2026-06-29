@@ -1,0 +1,748 @@
+canonical_identifier: bkk:krp/KR3ef086/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef086/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·訂正仲景全書金匱要略註
+  identifiers:
+    krp: KR3ef086
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef086.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef086_001-jc.yaml, hash: 'sha256:d81c8b7cd1f5365427f9949ceaaaf008eb4544c0ce39da861f63e35df213e2c2'}
+  - {seq: 2, filename: KR3ef086_002-jc.yaml, hash: 'sha256:f9454430640938d9bcf14f82cf6bee1c70d168523323675b0d744afc8d02675c'}
+  - {seq: 3, filename: KR3ef086_003-jc.yaml, hash: 'sha256:3873932ad2fa8cafc10e560e842d39cd13528ec83d658d22133ff200cacfe6b8'}
+  - {seq: 4, filename: KR3ef086_004-jc.yaml, hash: 'sha256:653d492d82d29e3efdd0d0ddbd89e132201093d0bfe03deb05e4756c08ca8848'}
+  - {seq: 5, filename: KR3ef086_005-jc.yaml, hash: 'sha256:5e96f110beeb14d90dae4e25bedbd6dbc9098c8c061d5a4ca3933377bf7b94bf'}
+  - {seq: 6, filename: KR3ef086_006-jc.yaml, hash: 'sha256:de652671427749c5bdae35061da915a550030fb305768466d7f818a18f4dc982'}
+  - {seq: 7, filename: KR3ef086_007-jc.yaml, hash: 'sha256:d56dc21b82ce67c631ccecd630670444f9e60b9cc92229579350c791279ebdef'}
+  - {seq: 8, filename: KR3ef086_008-jc.yaml, hash: 'sha256:5570208943636d3583affc7ebf2ad9e7fcc453971afab75ed75aeb2b3910fa66'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef086_001-jc.markers.yaml, hash: 'sha256:61a0b02f555f6dbf29775e864b3edc98af58c0f5bc6e0b8d35bb56988c91b551'}
+  - {seq: 2, role: markers, filename: assets/KR3ef086_002-jc.markers.yaml, hash: 'sha256:12df7e33627248787894623cda2e6c495e697cc4979ab65a783466b4a166f377'}
+  - {seq: 3, role: markers, filename: assets/KR3ef086_003-jc.markers.yaml, hash: 'sha256:264ea2fbc8ccd5bc8714b0ce59475fe2082c26933ae287e29800763dc7df1ba3'}
+  - {seq: 4, role: markers, filename: assets/KR3ef086_004-jc.markers.yaml, hash: 'sha256:307aa640b7d813119a6cbcaaea2b03e824b37668063d23b39e4c6aaf79d455d0'}
+  - {seq: 5, role: markers, filename: assets/KR3ef086_005-jc.markers.yaml, hash: 'sha256:077e8ff899cdb11fb2257a91ae4bf3d6402d27fcc658e5c6b774f035865d8cf9'}
+  - {seq: 6, role: markers, filename: assets/KR3ef086_006-jc.markers.yaml, hash: 'sha256:0c119c9b1c29a25c283c314add2446292c84cd3f4fab8600a086ea41d2fb729e'}
+  - {seq: 7, role: markers, filename: assets/KR3ef086_007-jc.markers.yaml, hash: 'sha256:ab20456a9661e5cc8aa212cb012806551e56343975d4852f49eb77e19ec4df5f'}
+  - {seq: 8, role: markers, filename: assets/KR3ef086_008-jc.markers.yaml, hash: 'sha256:4e3dea5176504585dd5728a44ef5d8691a864772bbd4d476929e85e1edcd2345'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef086_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 12110
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef086_jc_001-d2d4
+    span:
+    - body
+    - 155
+    - 5613
+  label: 藏府經絡先後病脈證第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef086_jc_001-d2d5
+    span:
+    - body
+    - 5613
+    - 12110
+  label: 痙濕暍病脈證并治第二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 18469
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 3686
+  label: 百合狐惑陰陽毒病脈證并治第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3d3
+    span:
+    - body
+    - 3686
+    - 5328
+  label: 瘧病脈證并治第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3d4
+    span:
+    - body
+    - 5328
+    - 7688
+  label: 中風厯節病脈證并治第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3d5
+    span:
+    - body
+    - 7688
+    - 12558
+  label: 血痹虛勞病脈證并治第六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef086_jc_002-d3d6
+    span:
+    - body
+    - 12558
+    - 18469
+  label: 肺痿肺癰欬嗽上氣病脈證并治第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 14862
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1373
+  label: 奔豚氣病脈證并治第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4d3
+    span:
+    - body
+    - 1373
+    - 3881
+  label: 胸痹心痛短氣病脈證并治第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4d4
+    span:
+    - body
+    - 3881
+    - 8623
+  label: 腹滿寒疝宿食病脈證并治第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4d5
+    span:
+    - body
+    - 8623
+    - 12349
+  label: 五藏風寒積聚病脈證并治第十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef086_jc_003-d4d6
+    span:
+    - body
+    - 12349
+    - 14862
+  label: 驚悸吐衄下血胸滿瘀血病脈證并治第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef086_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 18903
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef086_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 7450
+  label: 痰飲欬嗽病脈證并治第十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef086_jc_004-d5d3
+    span:
+    - body
+    - 7450
+    - 9569
+  label: 消渴小便利淋病脈證并治第十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef086_jc_004-d5d4
+    span:
+    - body
+    - 9569
+    - 18903
+  label: 水氣病脈證并治第十五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef086_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 15070
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef086_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 4522
+  label: 黃疸病脈證并治第十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef086_jc_005-d6d3
+    span:
+    - body
+    - 4522
+    - 12395
+  label: 嘔吐噦下利病脈證并治第十七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef086_jc_005-d6d4
+    span:
+    - body
+    - 12395
+    - 13861
+  label: 瘡癰腸癰浸淫病脈證并治第十八
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef086_jc_005-d6d5
+    span:
+    - body
+    - 13861
+    - 15070
+  label: 跌蹶手指臂腫轉筋陰狐疝蚘蟲病脈證并治第十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef086_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12458
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef086_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 2580
+  label: 婦人妊娠病脈證并治第二十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef086_jc_006-d7d3
+    span:
+    - body
+    - 2580
+    - 5638
+  label: 婦人產後病脈證并治第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef086_jc_006-d7d4
+    span:
+    - body
+    - 5638
+    - 10044
+  label: 婦人雜病脈證并治第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef086_jc_006-d7d5
+    span:
+    - body
+    - 10044
+    - 12458
+  label: 雜療方第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef086_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 7821
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ef086_jc_007-d8d4
+    span:
+    - body
+    - 53
+    - 4111
+  label: 禽獸魚蟲禁忌并治第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef086_jc_007-d8d5
+    span:
+    - body
+    - 4111
+    - 7821
+  label: 果實菜穀禁忌并治第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 8740
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9d2
+    span:
+    - body
+    - 2
+    - 8740
+  label: 正誤存疑篇
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2d4
+    span:
+    - body
+    - 81
+    - 7172
+  label: 正誤
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d2
+    span:
+    - body
+    - 83
+    - 667
+  label: 藏府經絡先後第一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d3
+    span:
+    - body
+    - 667
+    - 858
+  label: 痙濕暍第二
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d4
+    span:
+    - body
+    - 858
+    - 1125
+  label: 瘧病第四
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d5
+    span:
+    - body
+    - 1125
+    - 1600
+  label: 中風厯節第五
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d6
+    span:
+    - body
+    - 1600
+    - 1986
+  label: 血痹虛勞第六
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d7
+    span:
+    - body
+    - 1986
+    - 2217
+  label: 肺痿肺癰欬嗽上氣第七
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d8
+    span:
+    - body
+    - 2217
+    - 2842
+  label: 腹滿寒疝宿食第十
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d9
+    span:
+    - body
+    - 2842
+    - 3360
+  label: 五藏風寒積聚第十一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d10
+    span:
+    - body
+    - 3360
+    - 3525
+  label: 驚悸吐衄下血胸滿瘀血第十二
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d11
+    span:
+    - body
+    - 3525
+    - 4072
+  label: 痰飲欬嗽第十三
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d12
+    span:
+    - body
+    - 4072
+    - 4226
+  label: 消渴小便利淋第十四
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d13
+    span:
+    - body
+    - 4226
+    - 5282
+  label: 水氣病第十五
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d14
+    span:
+    - body
+    - 5282
+    - 5357
+  label: 黃疸病第十六
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d15
+    span:
+    - body
+    - 5357
+    - 5849
+  label: 嘔吐噦下利第十七
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d16
+    span:
+    - body
+    - 5849
+    - 5945
+  label: 跌蹶手指臂腫轉筋陰狐疝蚘蟲病第十九
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d17
+    span:
+    - body
+    - 5945
+    - 6164
+  label: 婦人產後病第二十一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d18
+    span:
+    - body
+    - 6164
+    - 7113
+  label: 婦人雜病第二十二
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d19
+    span:
+    - body
+    - 7113
+    - 7141
+  label: 雜療第二十三
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d4d20
+    span:
+    - body
+    - 7141
+    - 7172
+  label: 果實菜穀禁忌第二十五
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2d5
+    span:
+    - body
+    - 7172
+    - 8740
+  label: 存疑
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d2
+    span:
+    - body
+    - 7174
+    - 7348
+  label: 藏府經絡先後第一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d3
+    span:
+    - body
+    - 7348
+    - 7511
+  label: 百合狐惑陰陽毒第三
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d4
+    span:
+    - body
+    - 7511
+    - 7531
+  label: 血痹虛勞第六
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d5
+    span:
+    - body
+    - 7531
+    - 7561
+  label: 奔豚氣第八
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d6
+    span:
+    - body
+    - 7561
+    - 7577
+  label: 腹滿寒疝宿食第十
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d7
+    span:
+    - body
+    - 7577
+    - 7604
+  label: 五藏風寒積聚第十一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d8
+    span:
+    - body
+    - 7604
+    - 7649
+  label: 驚悸吐衄下血胸滿瘀血病第十二
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d9
+    span:
+    - body
+    - 7649
+    - 7893
+  label: 痰飲欬嗽第十三
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d10
+    span:
+    - body
+    - 7893
+    - 8331
+  label: 水氣病第十五
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d11
+    span:
+    - body
+    - 8331
+    - 8345
+  label: 黃疸病第十六
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d12
+    span:
+    - body
+    - 8345
+    - 8363
+  label: 嘔吐噦下利病第十七
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d13
+    span:
+    - body
+    - 8363
+    - 8458
+  label: 跌蹶手指臂腫轉筋陰狐疝蚘蟲病第十九
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d14
+    span:
+    - body
+    - 8458
+    - 8642
+  label: 婦人妊娠第二十
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d15
+    span:
+    - body
+    - 8642
+    - 8686
+  label: 婦人產後第二十一
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d16
+    span:
+    - body
+    - 8686
+    - 8708
+  label: 婦人雜病第二十二
+  type: section
+  level: 4
+- ref:
+    seq: 8
+    marker_id: KR3ef086_jc_008-d9.d2.d5d17
+    span:
+    - body
+    - 8708
+    - 8740
+  label: 雜療第二十三
+  type: section
+  level: 4
+hash: sha256:c29c0de4bb7fc83a15f333b8cff2810720435fd30afe5fe7b8562a818d3610aa
